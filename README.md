@@ -6,4 +6,4 @@
 ***
 ## Build and Run
 + **javac Sokoban.java**
-+ **java Sokoban**
++ **java Sokoban map**
